@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "jobTitleName":"Research Analyst",
+  "firstName":"Amanda",
+  "lastName":"Rosley",
+  "emailAddress":"ama.rose@test.com",
+  "jobs": ["tester","content writer"]
+}
